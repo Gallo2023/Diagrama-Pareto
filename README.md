@@ -13,7 +13,7 @@ de la mayor parte del problema planteado.
 <img src="./DiagramaPareto01.png" width="500"/>
 
 ## 🚀 Tecnologías
-- Microsoft Excel (grafico de pareto y/o grafico de barras combinado adaptado)
-- Principio de Pareto
+- Microsoft Excel (grafico de pareto y/o grafico de barras combinado adaptado).
+- Principio de Pareto (analisis ABC).
 
 Gabriel Gallardo
