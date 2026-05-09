@@ -16,4 +16,4 @@ de la mayor parte del problema planteado.
 - Microsoft Excel (grafico de pareto y/o grafico de barras combinado adaptado).
 - Principio de Pareto (analisis ABC).
 
-Gabriel Gallardo
+##### Gabriel Gallardo
