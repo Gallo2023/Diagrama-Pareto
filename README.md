@@ -8,9 +8,13 @@ son las causas el 80% de los productos defectuosos encontrados en un lapso de ti
 Gracias a este analisis rapido podemos enfocar controles de calidad y modificaciones en esos productos causantes
 de la mayor parte del problema planteado.
 
-## 🖼️ Vista previa
+## 🖼️ Concepto
 
 <img src="./DiagramaPareto01.png" width="500"/>
+
+## 🖼️ Vista previa
+
+<img src="./EjParetoProd.png" width="500"/>
 
 ## 🚀 Tecnologías
 - Microsoft Excel (grafico de pareto y/o grafico de barras combinado adaptado).
